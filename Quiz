@@ -29,7 +29,7 @@ while True:
 
     for question, answer in questions:
 
-        user = input(question + " ")
+        user = input(question +" ")
 
         if user.lower() == answer:
             print("Correct")
@@ -51,7 +51,7 @@ while True:
     else:
         print("very poor , Need Practice")
 
-    again = input("Play Again? (yes/no): ")
+    again = input('''enter "yes" to PLAY AGAIN or press any key to EXIT: ''')
 
     if again.lower() != "yes":
         print("Game Over")
