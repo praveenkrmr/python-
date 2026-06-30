@@ -17,7 +17,7 @@ questions = [
 (" What is 7 × 8? ","56"),
 (" Is every square a rectangle? ","no"),
 ("What is the value of 2⁵?  ","32"),
-(" Is 1 a prime number? ","no  "),
+(" Is 1 a prime number? ","no"),
 (" What is the cube of 4? ","64"),
 (" Is 180° the sum of angles in a triangle? ","yes"),
 
