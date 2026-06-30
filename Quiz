@@ -11,15 +11,15 @@ by Praveen Kumar Mishra
 questions = [
     
 ("Is 0 an even number? ","yes"),
-("Is 17 a prime number? "," yes "),
-(" What is the square root of 81? ","9 "),
-(" Is π (Pi) a rational number? "," no "),
-(" What is 7 × 8? "," 56 "),
-(" Is every square a rectangle? "," no  "),
-("What is the value of 2⁵?  "," 32 "),
+("Is 17 a prime number? ","yes"),
+(" What is the square root of 81? ","9"),
+(" Is π (Pi) a rational number? ","no"),
+(" What is 7 × 8? ","56"),
+(" Is every square a rectangle? ","no"),
+("What is the value of 2⁵?  ","32"),
 (" Is 1 a prime number? ","no  "),
-(" What is the cube of 4? ","64  "),
-(" Is 180° the sum of angles in a triangle? "," yes "),
+(" What is the cube of 4? ","64"),
+(" Is 180° the sum of angles in a triangle? ","yes"),
 
 ]
 
