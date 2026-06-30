@@ -1,3 +1,10 @@
+'''
+ATM Machine 
+by using Concepts :- condtional statement, loops
+
+by Praveen Kumar Mishra
+
+'''
 balance = 10000
 
 while True:
